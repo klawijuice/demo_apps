@@ -5,6 +5,6 @@
     <title> </title>
 </head>
 <body>
-    BIENVENUE
+    <strong>WELCOME TO GIT</strong>
 </body>
 </html>
