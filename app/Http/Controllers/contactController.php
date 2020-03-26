@@ -8,6 +8,16 @@ class contactController extends Controller
 {
     public function index()
     {
-    	dd('ok');
+    	return view('welcome');
+    }
+
+    public function about()
+    {
+    	return view('about');
+    }
+
+    public function help()
+    {
+    	return view('help');
     }
 }
