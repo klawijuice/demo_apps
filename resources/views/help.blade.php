@@ -10,4 +10,14 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero neque placeat f
 	
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	
+</body>
+</html>
 
